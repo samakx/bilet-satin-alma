@@ -1,0 +1,16 @@
+.git
+.gitignore
+.github
+.env.example
+docker-compose.override.yml
+node_modules
+npm-debug.log
+.DS_Store
+.vscode
+.idea
+*.log
+*.pem
+.claude
+README.md
+HESAPLAR.txt
+test-coupon.php

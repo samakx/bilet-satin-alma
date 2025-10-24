@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bilet-satin-alma
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+      - ./database:/var/www/html/database
+    environment:
+      - PHP_MEMORY_LIMIT=256M
+      - PHP_MAX_UPLOAD_SIZE=50M
+      - PHP_DISPLAY_ERRORS=1
+      - PHP_ERROR_REPORTING=E_ALL
+    restart: unless-stopped
+    networks:
+      - bilet-network
+
+networks:
+  bilet-network:
+    driver: bridge
