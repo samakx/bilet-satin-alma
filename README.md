@@ -6,7 +6,7 @@ Otobüs sektöründe modern ve güvenli bilet satış çözümü sunan, entegre 
 
 ## 📌 Proje Tanımı
 
-**BİLET**, yolcular ve otobüs işletmecileri için tasarlanan kapsamlı bir bilet satın alma ve yönetim platformudur. Platform, kullanıcı dostu arayüzü, gerçek zamanlı sefer takibi, akıllı koltuk yönetimi ve işletme operasyonlarını basitleştiren araçlarla otobüs sektöründe hizmet kalitesi artışı sağlar.
+**BU BİLET**, yolcular ve otobüs işletmecileri için tasarlanan kapsamlı bir bilet satın alma ve yönetim platformudur. Platform, kullanıcı dostu arayüzü, gerçek zamanlı sefer takibi, akıllı koltuk yönetimi ve işletme operasyonlarını basitleştiren araçlarla otobüs sektöründe hizmet kalitesi artışı sağlar.
 
 ---
 
